@@ -1,6 +1,6 @@
 # flutter_app_6252410003
 
-A new Flutter project.
+A new Flutter project. Login - sinup
 
 ## Getting Started
 
